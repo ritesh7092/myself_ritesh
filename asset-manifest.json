@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/myself_ritesh/static/css/main.f5a3cbd6.css",
+    "main.js": "/myself_ritesh/static/js/main.26a29ae9.js",
+    "static/js/453.ace21015.chunk.js": "/myself_ritesh/static/js/453.ace21015.chunk.js",
+    "static/media/medicare.png": "/myself_ritesh/static/media/medicare.cbde5b4630ccbecad784.png",
+    "static/media/programmer1.png": "/myself_ritesh/static/media/programmer1.dab6e8b7617889534a01.png",
+    "static/media/codecombat.png": "/myself_ritesh/static/media/codecombat.bfb2479d666014f8deef.png",
+    "static/media/adobezensolve.png": "/myself_ritesh/static/media/adobezensolve.256add8634b08e33a5c6.png",
+    "static/media/meta-front-end.png": "/myself_ritesh/static/media/meta-front-end.321d49b5b585aef95ca1.png",
+    "static/media/profile.png": "/myself_ritesh/static/media/profile.94142361db178d3d3ad9.png",
+    "static/media/resume.pdf": "/myself_ritesh/static/media/resume.9101d0031b1e6e02b126.pdf",
+    "static/media/certificate of internship coding ninja.jpeg": "/myself_ritesh/static/media/certificate of internship coding ninja.40f93d054ef93d46694d.jpeg",
+    "static/media/codechef.png": "/myself_ritesh/static/media/codechef.e70be7121ff1cd44caaf.png",
+    "static/media/mySql.png": "/myself_ritesh/static/media/mySql.805e10839bddd1f2504d.png",
+    "static/media/node-js.png": "/myself_ritesh/static/media/node-js.e328955d6bbbf3ebc72b.png",
+    "static/media/css.png": "/myself_ritesh/static/media/css.1cb7a8cdbf757f3d0a64.png",
+    "static/media/codeforces.png": "/myself_ritesh/static/media/codeforces.295bfc554763597aca45.png",
+    "static/media/c++.png": "/myself_ritesh/static/media/c++.7596b9871e2131f99e82.png",
+    "static/media/javaImg.png": "/myself_ritesh/static/media/javaImg.d4ae311df48b65333e35.png",
+    "static/media/html.png": "/myself_ritesh/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/musicimages.jpg": "/myself_ritesh/static/media/musicimages.bdab396cc51d680dede0.jpg",
+    "static/media/webdeveloper.jpg": "/myself_ritesh/static/media/webdeveloper.1970d62c764afe15f66e.jpg",
+    "static/media/js.png": "/myself_ritesh/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/tic-tac-toe-images.jpg": "/myself_ritesh/static/media/tic-tac-toe-images.c87c98c4e990b163378c.jpg",
+    "static/media/slick.svg": "/myself_ritesh/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/myself_ritesh/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/myself_ritesh/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/myself_ritesh/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/myself_ritesh/index.html",
+    "main.f5a3cbd6.css.map": "/myself_ritesh/static/css/main.f5a3cbd6.css.map",
+    "main.26a29ae9.js.map": "/myself_ritesh/static/js/main.26a29ae9.js.map",
+    "453.ace21015.chunk.js.map": "/myself_ritesh/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5a3cbd6.css",
+    "static/js/main.26a29ae9.js"
+  ]
+}
